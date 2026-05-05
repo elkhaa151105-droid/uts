@@ -244,6 +244,9 @@ Beberapa fitur yang dapat ditambahkan:
 - Sitemap otomatis
 - Dark mode
 
+video penjelasan web
+https://youtu.be/303kXxuZb4Y?si=hgfrZLPtMB6Gtt8w
+
 ---
 
 ## Author
